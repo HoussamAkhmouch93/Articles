@@ -1,3 +1,3 @@
-Articles Lus : 2_
-Articles Lus à moitié : 1_
-Artices non lus : 0_
+Articles Lus : 0_
+Articles Lus Partiellement : 1_
+Artices non lus : 2_
